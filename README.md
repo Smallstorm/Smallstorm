@@ -39,9 +39,7 @@ anna_makhova@inbox.ru
 # Навыки
 
 * Python
-* SQL
 * C++
-* HTML/CSS
 * Сетевое администрирование (Cisco/Huawei)
 * Excel
 * PowerPoint
