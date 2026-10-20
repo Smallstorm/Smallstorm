@@ -1,41 +1,31 @@
+# **Anna Makhova**
 
-# **Махова Анна**
+*Network Engineer*
 
-*Сетевой инженер*
+## Education
+*[Moscow Institute of Electronic Technology](https://www.miet.ru/)*
 
-## Контакты
+Bachelor's degree
 
-Москва
+Field of study – Infocommunication Technologies and Communication Systems
 
-+7(916) 847-35-45
+Thesis topic – Development of a methodology for configuring and testing the functionality of a VPN configuration with provider redundancy using changeroutes.
 
-anna_makhova@inbox.ru
+Master's degree
 
+Field of study – Information Networks and Telecommunications
 
-## Образование
-*[Московский Институт Электронной Техники](https://www.miet.ru/)*
-
-Бакалавр
-
-Направление обучения - Инфокоммуникационные технологии и системы связи
-
-Тема диплома - Разработка методики настройки и проверкаи работоспособности конфигурации VPN с резервированием провайдеров при помощи changeroutes.  
-
-Магистр
-
-Направление обучения - Информационные сети и телекоммуникации
-
-Тема диплома - Разработка методики тестирования работоспособности новейших версий пакета FRR с криптошлюзом С-Терра.
+Thesis topic – Development of a methodology for testing the functionality of the latest versions of the FRR package with the C-Terra crypto gateway.
 
 
 **GPA: 4.8**
 
-# Навыки
+# Skills
 
-+ Сетевые протоколы: BGP, OSPF, VLAN, IPsec, GRE, DHCP, TLS
-+ Linux, маршрутизация
++ Network protocols: BGP, OSPF, VLAN, IPsec, GRE, DHCP, TLS
++ Linux, routing
 + Git
-+ Python (pexpect, pytest) и Bash для автоматизации
-+ Системы bug-трекинга (Jira, Bugzilla, Redmine)  
-+ Тестирование (Функциональное, Регрессионное, Smoke-тестирование)
-+ Языки программирования (Python, Bash)
++ Python (pexpect, pytest) and Bash for automation
++ Bug tracking systems (Jira, Bugzilla, Redmine)
++ Testing (Functional, Regression, Smoke testing)
++ Programming languages (Python, Bash)
